@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>bullet1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{64,115}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{64,115}}</string>
+				<key>sourceSize</key>
+				<string>{64,115}</string>
+			</dict>
+
+			<key>bullet2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,0},{60,93}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{60,93}}</string>
+				<key>sourceSize</key>
+				<string>{60,93}</string>
+			</dict>
+
+			<key>bullet3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,94},{24,13}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{24,13}}</string>
+				<key>sourceSize</key>
+				<string>{24,13}</string>
+			</dict>
+
+			<key>bullet4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,0},{45,59}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{45,59}}</string>
+				<key>sourceSize</key>
+				<string>{45,59}</string>
+			</dict>
+
+			<key>bullet5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{65,108},{8,18}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{8,18}}</string>
+				<key>sourceSize</key>
+				<string>{8,18}</string>
+			</dict>
+
+			<key>bullet6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{126,60},{26,58}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false/>
+				<key>sourceColorRect</key>
+				<string>{{0,0},{26,58}}</string>
+				<key>sourceSize</key>
+				<string>{26,58}</string>
+			</dict>
+
+		</dict>
+
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>size</key>
+			<string>{256,128}</string>
+			<key>textureFileName</key>
+			<string>bullets.png</string>
+			</dict>
+		</dict>
+</plist>
